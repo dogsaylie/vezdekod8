@@ -5,8 +5,10 @@
   "main": "index.js",
   "scripts": {
     "deploy": "vk-miniapps-deploy"
+    npm install @vkontakte/vk-miniapps-deploy --save-dev
     "start": "cross-env PORT=10888 react-scripts start",
     "build": "react-scripts build"
+    "homepage":"./"
   },
   "keywords": [],
   "author": "",
