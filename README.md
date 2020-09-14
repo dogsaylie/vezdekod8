@@ -1,1 +1,1 @@
-http://vk.com/dev
+vezdekod
