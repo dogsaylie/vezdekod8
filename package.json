@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "deploy": "vk-miniapps-deploy"
-    npminstall @vkontakte/vk-miniapps-deploy --save-dev
+    npm install @vkontakte/vk-miniapps-deploy --save-dev
     "start": "cross-env PORT=10888 react-scripts start",
     "build": "react-scripts build"
-    "homepage":"./"
   },
+  "homepage":"./"
   "keywords": [],
   "author": "",
   "license": "MIT",
