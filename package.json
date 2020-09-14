@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "deploy": "vk-miniapps-deploy"
     "start": "cross-env PORT=10888 react-scripts start",
     "build": "react-scripts build"
   },
