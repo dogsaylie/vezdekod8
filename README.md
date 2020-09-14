@@ -1,1 +1,1 @@
-# vezdekod8
+http://vk.com/dev
