@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "vk-miniapps-deploy"
-    npm install @vkontakte/vk-miniapps-deploy --save-dev
+    "deploy": "vk-miniapps-deploy",
+    "clean-source": "rimraf README.md src webroot package.json"
     "start": "cross-env PORT=10888 react-scripts start",
     "build": "react-scripts build"
   },
