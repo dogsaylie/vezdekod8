@@ -5,8 +5,5 @@
     "mobile": "index.html",
     "mvk": "index.html",
     "web": "index.html"
-
-$ env MINI_APPS_ACCESS_TOKEN=<token> yarn deploy
-
   }
 }
