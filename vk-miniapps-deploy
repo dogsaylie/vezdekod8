@@ -20,7 +20,7 @@ async function run() {
 
   const deploy = require('../index');
   const cfg = configJSON || {};
-
+  npm install @vkontakte/vk-miniapps-deploy --save-dev
   if (!cfg) {
     console.error('vk-hosting-config.json is missing');
     return false;
