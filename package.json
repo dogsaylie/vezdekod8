@@ -41,7 +41,7 @@
   }
 
 {
-  "name": "@vkontakte/vk-miniapps-deploy",
+  "name": "@vezdekod8",
   "version": "0.0.21",
   "description": "Deploy to VK Mini Apps hosting with one simple command",
   "main": "index.js",
@@ -55,7 +55,7 @@
   },
   "author": {
     "name": "VK",
-    "url": "https://vk.com"
+    "url": "https://vezdekod8.now.sh/"
   },
   "contributors": [
     {
